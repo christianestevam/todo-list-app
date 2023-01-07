@@ -8,7 +8,7 @@ To install this app, clone the repo and run `yarn` in the root directory.
 
 ## Usage
 
-To run the app, run `npm start` in the root directory. This will start the app on localhost:3000.
+To run the app, run `npm start` in the root directory. This will start the app on android studio and you can run it on your android device or emulator.
 
 ## Contributing
 
